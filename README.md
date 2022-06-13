@@ -10,22 +10,22 @@
 <ul> 
   <li> Installation du framework Flask : <b> pip install flask </b> </li> </br>
   
-  ![plot](./a1.png)
+  ![plot](./images/a1.png)
   
   <li> Installation de MySQL pour la gestion de la base de données : <b> pip install flask-mysql </b> </li> </br>
   
-   ![plot](./a2.png)
+   ![plot](./images/a2.png)
   
   <li> Installation CORS pour le partage des ressources entre les domaines : <b> pip install cors </b> </li>
   
-   ![plot](./a3.png)
+   ![plot](./images/a3.png)
   
 </ul>
 
 ### Conception 
 <b> Modèle Conceptuel de données </b>
 
-![plot](./mcd.png)
+![plot](./images/mcd.png)
 
 <section> 
   <ul><b> Notes :  </b>
@@ -36,7 +36,7 @@
 
 <b> Modèle Logique de données </b>
 
-![plot](./mld.png)
+![plot](./images/mld.png)
 
 <b> Diagramme de classe </b>
 *****
